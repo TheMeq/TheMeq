@@ -9,6 +9,6 @@ Languages and Tools: <a href="https://www.w3schools.com/cs/" target="_blank" rel
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/TheMeq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="TheMeq" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themeq&show_icons=true&locale=en" alt="themeq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=themeq&show_icons=true&locale=en" alt="themeq" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themeq&" alt="themeq" /></p>
