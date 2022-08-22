@@ -9,7 +9,4 @@ Languages and Tools: <a href="https://www.w3schools.com/cs/" target="_blank" rel
 
 <p><a href="https://ko-fi.com/TheMeq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="TheMeq" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=themeq&show_icons=true&locale=en" alt="themeq" /></p><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=themeq&" alt="themeq" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=themeq&show_icons=true&locale=en" alt="themeq" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=themeq&" alt="themeq" /></p>
